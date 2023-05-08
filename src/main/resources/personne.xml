@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?><personne><nom>kate</nom></personne>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><planning><lesCours><matiere><nomMatiere>math</nomMatiere><nomProfesseur>kriss</nomProfesseur></matiere><horaire><heureDebut>1.0</heureDebut><heureFin>2.0</heureFin><dureeMinute>60.0</dureeMinute></horaire></lesCours></planning>

@@ -13,6 +13,13 @@ public class Personne {
     @XmlElement(name = "nom")
     private String nom;
 
+    @Override
+    public String toString() {
+        return "Personne{" +
+                "id=" + id +
+                ", nom='" + nom + '\'' +
+                '}';
+    }
 
     public int getId() {
         return id;
